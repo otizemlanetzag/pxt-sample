@@ -1,7 +1,7 @@
 {
-    "id": "sample",
-    "name": "sample",
-    "title": "MakeCode Editor Sample",
+    "id": "micro-os",
+    "name": "micro-os",
+    "title": "MicroOS Editor",
     "corepkg": "core",
     "cloud": {
         "workspace": false,
@@ -26,8 +26,9 @@
         "autoRun": true
     },
     "appTheme": {
-        "logoUrl": "https://github.com/Microsoft/pxt-sample",
-        "homeUrl": "http://microsoft.github.io/pxt-sample/",
+        "logoUrl": "./static/LOGO.PNG",
+        "logoWideUrl": "./static/LOGO.PNG",
+        "homeUrl": "https://pages.dev",
         "privacyUrl": "https://go.microsoft.com/fwlink/?LinkId=521839",
         "termsOfUseUrl": "https://go.microsoft.com/fwlink/?LinkID=206977",
         "betaUrl": "https://makecode.com/",
@@ -45,7 +46,7 @@
         "monacoToolbox": true,
         "invertedMenu": true,
         "showHomeScreen": true,
-        "homeScreenHero": "./static/hero.png",
+        "homeScreenHero": "./static/LOGO.PNG",
         "blocklyOptions": {
             "grid": {
                 "spacing": 45,
