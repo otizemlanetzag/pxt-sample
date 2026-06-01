@@ -1,7 +1,7 @@
 {
     "id": "micro-os",
     "name": "micro-os",
-    "title": "MicroOS Editor",
+    "title": "MicroOS CBlockode Editor",
     "corepkg": "core",
     "cloud": {
         "workspace": false,
@@ -28,7 +28,7 @@
     "appTheme": {
         "logoUrl": "./LOGO.PNG",
         "logoWideUrl": "./LOGO.PNG",
-        "homeUrl": "https://pages.dev",
+        "homeUrl": "https://github.io",
         "privacyUrl": "https://microsoft.com",
         "termsOfUseUrl": "https://microsoft.com",
         "betaUrl": "https://makecode.com",
