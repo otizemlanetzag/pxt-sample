@@ -10,6 +10,9 @@
     "bundleddirs": [
         "libs/core"
     ],
+    "dependencies": {
+        "customlogger": "github:otizemlanetzag/data_logger_for_micro-bit_v2#main"
+    },
     "runtime": {
       "mathBlocks": true,
       "loopsBlocks": true,
