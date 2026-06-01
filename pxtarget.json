@@ -26,12 +26,12 @@
         "autoRun": true
     },
     "appTheme": {
-        "logoUrl": "./static/LOGO.PNG",
-        "logoWideUrl": "./static/LOGO.PNG",
+        "logoUrl": "./LOGO.PNG",
+        "logoWideUrl": "./LOGO.PNG",
         "homeUrl": "https://pages.dev",
-        "privacyUrl": "https://go.microsoft.com/fwlink/?LinkId=521839",
-        "termsOfUseUrl": "https://go.microsoft.com/fwlink/?LinkID=206977",
-        "betaUrl": "https://makecode.com/",
+        "privacyUrl": "https://microsoft.com",
+        "termsOfUseUrl": "https://microsoft.com",
+        "betaUrl": "https://makecode.com",
         "docMenu": [
             {
                 "name": "About",
@@ -46,7 +46,7 @@
         "monacoToolbox": true,
         "invertedMenu": true,
         "showHomeScreen": true,
-        "homeScreenHero": "./static/LOGO.PNG",
+        "homeScreenHero": "./LOGO.PNG",
         "blocklyOptions": {
             "grid": {
                 "spacing": 45,
